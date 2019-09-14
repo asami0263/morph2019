@@ -1,3 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
+morph2019.Rcheck/
+morph2019*.tar.gz
+morph2019*.tgz
