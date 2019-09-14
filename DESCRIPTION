@@ -11,3 +11,5 @@ License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/asami0263/morph2019
+BugReports: https://github.com/asami0263/morph2019/issues
